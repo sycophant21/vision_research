@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        800,
+        368,
+        3
+    ],
+    "compos": [
+        {
+            "id": 1,
+            "class": "Compo",
+            "column_min": 311,
+            "row_min": 21,
+            "column_max": 337,
+            "row_max": 34,
+            "width": 26,
+            "height": 13
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "column_min": 18,
+            "row_min": 73,
+            "column_max": 57,
+            "row_max": 113,
+            "width": 39,
+            "height": 40
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "column_min": 300,
+            "row_min": 78,
+            "column_max": 349,
+            "row_max": 108,
+            "width": 49,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "column_min": 237,
+            "row_min": 87,
+            "column_max": 264,
+            "row_max": 99,
+            "width": 27,
+            "height": 12
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "column_min": 135,
+            "row_min": 318,
+            "column_max": 223,
+            "row_max": 433,
+            "width": 88,
+            "height": 115
+        }
+    ]
+}
